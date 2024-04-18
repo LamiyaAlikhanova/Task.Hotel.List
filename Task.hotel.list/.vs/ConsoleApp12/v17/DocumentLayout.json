@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kh53\\Desktop\\C# Generics , Collections\\Task.hotel.list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E61755B-671D-4B86-A384-3E95E54A6F3F}|ConsoleApp12\\ConsoleApp12.csproj|c:\\users\\kh53\\desktop\\c# generics , collections\\task.hotel.list\\consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E61755B-671D-4B86-A384-3E95E54A6F3F}|ConsoleApp12\\ConsoleApp12.csproj|solutionrelative:consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E61755B-671D-4B86-A384-3E95E54A6F3F}|ConsoleApp12\\ConsoleApp12.csproj|c:\\users\\kh53\\desktop\\c# generics , collections\\task.hotel.list\\consoleapp12\\notavaibleexpecition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E61755B-671D-4B86-A384-3E95E54A6F3F}|ConsoleApp12\\ConsoleApp12.csproj|solutionrelative:consoleapp12\\notavaibleexpecition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E61755B-671D-4B86-A384-3E95E54A6F3F}|ConsoleApp12\\ConsoleApp12.csproj|c:\\users\\kh53\\desktop\\c# generics , collections\\task.hotel.list\\consoleapp12\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E61755B-671D-4B86-A384-3E95E54A6F3F}|ConsoleApp12\\ConsoleApp12.csproj|solutionrelative:consoleapp12\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E61755B-671D-4B86-A384-3E95E54A6F3F}|ConsoleApp12\\ConsoleApp12.csproj|c:\\users\\kh53\\desktop\\c# generics , collections\\task.hotel.list\\consoleapp12\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E61755B-671D-4B86-A384-3E95E54A6F3F}|ConsoleApp12\\ConsoleApp12.csproj|solutionrelative:consoleapp12\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\kh53\\Desktop\\C# Generics , Collections\\Task.hotel.list\\ConsoleApp12\\Room.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\Room.cs",
+              "ToolTip": "C:\\Users\\kh53\\Desktop\\C# Generics , Collections\\Task.hotel.list\\ConsoleApp12\\Room.cs",
+              "RelativeToolTip": "ConsoleApp12\\Room.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:42:03.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotAvaibleExpecition.cs",
+              "DocumentMoniker": "C:\\Users\\kh53\\Desktop\\C# Generics , Collections\\Task.hotel.list\\ConsoleApp12\\NotAvaibleExpecition.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\NotAvaibleExpecition.cs",
+              "ToolTip": "C:\\Users\\kh53\\Desktop\\C# Generics , Collections\\Task.hotel.list\\ConsoleApp12\\NotAvaibleExpecition.cs",
+              "RelativeToolTip": "ConsoleApp12\\NotAvaibleExpecition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:43:00.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\kh53\\Desktop\\C# Generics , Collections\\Task.hotel.list\\ConsoleApp12\\Hotel.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\Hotel.cs",
+              "ToolTip": "C:\\Users\\kh53\\Desktop\\C# Generics , Collections\\Task.hotel.list\\ConsoleApp12\\Hotel.cs",
+              "RelativeToolTip": "ConsoleApp12\\Hotel.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:41:53.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kh53\\Desktop\\C# Generics , Collections\\Task.hotel.list\\ConsoleApp12\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\Program.cs",
+              "ToolTip": "C:\\Users\\kh53\\Desktop\\C# Generics , Collections\\Task.hotel.list\\ConsoleApp12\\Program.cs",
+              "RelativeToolTip": "ConsoleApp12\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwCoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:41:23.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
